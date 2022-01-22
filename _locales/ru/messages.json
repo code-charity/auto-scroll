@@ -1,0 +1,53 @@
+{
+    "areYouSureYouWantToExportTheData": {
+        "message": "Вы действительно хотите экспортировать данные?"
+    },
+    "areYouSureYouWantToImportTheData": {
+        "message": "Вы действительно хотите испортировать данные?"
+    },
+    "autoScrollActivation": {
+        "message": "\"Auto scroll\" activation"
+    },
+    "black": {
+        "message": "Black"
+    },
+    "cancel": {
+        "message": "Отмена"
+    },
+    "description": {
+        "message": "Лучшее Frame By Frame расширение. Работает со всеми веб-сайтами! Наведите курсор на видео, затем используйте клавиатуру, чтобы выбрать нужный кадр."
+    },
+    "dragDropActivation": {
+        "message": "\"Drag & Drop\" activation"
+    },
+    "export": {
+        "message": "Экспорт"
+    },
+    "import": {
+        "message": "Импортировать"
+    },
+    "language": {
+        "message": "Язык"
+    },
+    "light": {
+        "message": "Светлая"
+    },
+    "ok": {
+        "message": "Ок"
+    },
+    "reset": {
+        "message": "Сброс"
+    },
+    "save": {
+        "message": "Сохранить"
+    },
+    "somethingWentWrongTryReloadingThePage": {
+        "message": "Что-то пошло не так. Попробуйте перезагрузить страницу."
+    },
+    "theme": {
+        "message": "Тема"
+    },
+    "touchscreenActivation": {
+        "message": "\"Touchscreen\" activation"
+    }
+}

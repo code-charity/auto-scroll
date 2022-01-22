@@ -1,0 +1,53 @@
+{
+    "areYouSureYouWantToExportTheData": {
+        "message": "האם אתה בטוח שברצונך לייצא את המידע?"
+    },
+    "areYouSureYouWantToImportTheData": {
+        "message": "האם אתה בטוח שברצונך לייבא את המידע?"
+    },
+    "autoScrollActivation": {
+        "message": "\"Auto scroll\" activation"
+    },
+    "black": {
+        "message": "Black"
+    },
+    "cancel": {
+        "message": "ביטול"
+    },
+    "description": {
+        "message": "הכלי הטוב ביותר למעבר בין חלוניות (פריימים). עובד עם כל האתרים! יש להזיז את סמן העכבר על גבי סרטון ולהשתמש במקשי החיצים למעבר בין פריימים."
+    },
+    "dragDropActivation": {
+        "message": "\"Drag & Drop\" activation"
+    },
+    "export": {
+        "message": "ייצוא"
+    },
+    "import": {
+        "message": "ייבוא"
+    },
+    "language": {
+        "message": "שפה"
+    },
+    "light": {
+        "message": "בהיר"
+    },
+    "ok": {
+        "message": "אישור"
+    },
+    "reset": {
+        "message": "איפוס"
+    },
+    "save": {
+        "message": "שמירה"
+    },
+    "somethingWentWrongTryReloadingThePage": {
+        "message": "משהו השתבש. יש לנסות לטעון את העמוד מחדש."
+    },
+    "theme": {
+        "message": "ערכת נושא"
+    },
+    "touchscreenActivation": {
+        "message": "\"Touchscreen\" activation"
+    }
+}

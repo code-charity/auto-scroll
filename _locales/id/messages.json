@@ -1,0 +1,53 @@
+{
+    "areYouSureYouWantToExportTheData": {
+        "message": "Are you sure you want to export the data?"
+    },
+    "areYouSureYouWantToImportTheData": {
+        "message": "Are you sure you want to import the data?"
+    },
+    "autoScrollActivation": {
+        "message": "\"Auto scroll\" activation"
+    },
+    "black": {
+        "message": "Black"
+    },
+    "cancel": {
+        "message": "Cancel"
+    },
+    "description": {
+        "message": "Best Frame By Frame Tool. Works with all websites! Move your mouse cursor over video and use keyboard arrows to switch frames."
+    },
+    "dragDropActivation": {
+        "message": "\"Drag & Drop\" activation"
+    },
+    "export": {
+        "message": "Export"
+    },
+    "import": {
+        "message": "Import"
+    },
+    "language": {
+        "message": "Language"
+    },
+    "light": {
+        "message": "Light"
+    },
+    "ok": {
+        "message": "Ok"
+    },
+    "reset": {
+        "message": "Reset"
+    },
+    "save": {
+        "message": "Save"
+    },
+    "somethingWentWrongTryReloadingThePage": {
+        "message": "Something went wrong. Try reloading the page."
+    },
+    "theme": {
+        "message": "Theme"
+    },
+    "touchscreenActivation": {
+        "message": "\"Touchscreen\" activation"
+    }
+}

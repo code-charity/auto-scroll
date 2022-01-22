@@ -1,0 +1,13 @@
+/*--------------------------------------------------------------
+>>> CONTENT STYLES
+--------------------------------------------------------------*/
+
+html[data-auto-scroll-cursor=all-scroll],
+html[data-auto-scroll-cursor=all-scroll] * {
+	cursor: all-scroll !important
+}
+
+html[data-auto-scroll-cursor=grabbing],
+html[data-auto-scroll-cursor=grabbing] * {
+	cursor: grabbing !important
+}

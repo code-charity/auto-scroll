@@ -1,0 +1,39 @@
+{
+	"manifest_version": 3,
+	"name": "Auto Scroll",
+	"description": "__MSG_description__",
+	"version": "0.5",
+	"default_locale": "en",
+	"icons": {
+		"16": "icons/16.png",
+		"32": "icons/32.png",
+		"48": "icons/48.png",
+		"128": "icons/128.png"
+	},
+    "background": {
+        "service_worker": "background.js"
+    },
+    "options_page": "ui/options.html",
+    "action": {
+        "default_popup": "ui/popup.html"
+    },
+	"content_scripts": [
+		{
+			"all_frames": true,
+			"css": [
+				"content-styles.css"
+			],
+			"js": [
+				"content-script.js"
+			],
+			"matches": [
+				"<all_urls>"
+			],
+			"run_at": "document_start"
+		}
+	],
+	"permissions": [
+		"storage"
+	],
+	"offline_enabled": true
+}
