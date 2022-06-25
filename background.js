@@ -1,43 +1,17 @@
-/*---------------------------------------------------------------
+/*--------------------------------------------------------------
 >>> BACKGROUND
------------------------------------------------------------------
-# Listeners
-    # On Install
-    # Message
----------------------------------------------------------------*/
-
-/*---------------------------------------------------------------
-# LISTENERS
----------------------------------------------------------------*/
-
-/*---------------------------------------------------------------
-# ON INSTALL
----------------------------------------------------------------*/
-
-chrome.runtime.onInstalled.addListener(function(event){
-    if(event.reason === 'install') {
-        chrome.storage.local.set({
-            auto_scroll: {
-                middle: true
-            }
-        });
-    }
-});
-
-
-/*---------------------------------------------------------------
-# MESSAGE
----------------------------------------------------------------*/
+--------------------------------------------------------------*/
 
 chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
-    if (message === 'get-tab-url') {
-        var response = {
-            url: new URL(sender.tab.url).hostname,
-            id: sender.tab.id
-        };
+	if (message === 'tab-connected') {
+		var response = new URL(sender.tab.url).hostname;
 
-        sendResponse(response);
+		sendResponse(response);
 
-        return response;
-    }
+		return response;
+	}else if (message === 'options-page-connected') {
+		sendResponse({
+			isPopup: sender.hasOwnProperty('tab') === false
+		});
+	}
 });

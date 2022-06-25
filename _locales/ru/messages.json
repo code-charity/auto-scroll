@@ -5,11 +5,8 @@
     "areYouSureYouWantToImportTheData": {
         "message": "Вы действительно хотите испортировать данные?"
     },
-    "autoScrollActivation": {
-        "message": "\"Auto scroll\" activation"
-    },
-    "black": {
-        "message": "Black"
+    "automatic": {
+        "message": "Automatic"
     },
     "cancel": {
         "message": "Отмена"
@@ -17,8 +14,11 @@
     "description": {
         "message": "Лучшее Frame By Frame расширение. Работает со всеми веб-сайтами! Наведите курсор на видео, затем используйте клавиатуру, чтобы выбрать нужный кадр."
     },
-    "dragDropActivation": {
-        "message": "\"Drag & Drop\" activation"
+    "disabled": {
+        "message": "Disabled"
+    },
+    "dragDrop": {
+        "message": "Drag & Drop"
     },
     "export": {
         "message": "Экспорт"
@@ -29,25 +29,16 @@
     "language": {
         "message": "Язык"
     },
-    "light": {
-        "message": "Светлая"
+    "leftMouseButton": {
+        "message": "Left mouse button"
     },
     "ok": {
         "message": "Ок"
     },
-    "reset": {
-        "message": "Сброс"
+    "scrollWheel": {
+        "message": "Scroll wheel"
     },
-    "save": {
-        "message": "Сохранить"
-    },
-    "somethingWentWrongTryReloadingThePage": {
-        "message": "Что-то пошло не так. Попробуйте перезагрузить страницу."
-    },
-    "theme": {
-        "message": "Тема"
-    },
-    "touchscreenActivation": {
-        "message": "\"Touchscreen\" activation"
+    "thePageHostnameIsProtectedByBrowser": {
+        "message": "The page HOSTNAME is protected by browser."
     }
 }

@@ -5,11 +5,8 @@
     "areYouSureYouWantToImportTheData": {
         "message": "Are you sure you want to import the data?"
     },
-    "autoScrollActivation": {
-        "message": "\"Auto scroll\" activation"
-    },
-    "black": {
-        "message": "Black"
+    "automatic": {
+        "message": "Automatic"
     },
     "cancel": {
         "message": "إلغاء"
@@ -17,8 +14,11 @@
     "description": {
         "message": "أفضل أداة إطار حسب بإطار. تعمل على جميع المواقع! حرك مؤشر الفأرة على الفيديو و إستعمل مفاتيح الأسهم لتبديل بين الإطارات."
     },
-    "dragDropActivation": {
-        "message": "\"Drag & Drop\" activation"
+    "disabled": {
+        "message": "Disabled"
+    },
+    "dragDrop": {
+        "message": "Drag & Drop"
     },
     "export": {
         "message": "Export"
@@ -29,25 +29,16 @@
     "language": {
         "message": "Language"
     },
-    "light": {
-        "message": "Light"
+    "leftMouseButton": {
+        "message": "Left mouse button"
     },
     "ok": {
         "message": "Ok"
     },
-    "reset": {
-        "message": "إعادة تعيين"
+    "scrollWheel": {
+        "message": "Scroll wheel"
     },
-    "save": {
-        "message": "حفظ"
-    },
-    "somethingWentWrongTryReloadingThePage": {
-        "message": "Something went wrong. Try reloading the page."
-    },
-    "theme": {
-        "message": "Theme"
-    },
-    "touchscreenActivation": {
-        "message": "\"Touchscreen\" activation"
+    "thePageHostnameIsProtectedByBrowser": {
+        "message": "The page HOSTNAME is protected by browser."
     }
 }

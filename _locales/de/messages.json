@@ -5,11 +5,8 @@
     "areYouSureYouWantToImportTheData": {
         "message": "Are you sure you want to import the data?"
     },
-    "autoScrollActivation": {
-        "message": "\"Auto scroll\" activation"
-    },
-    "black": {
-        "message": "Black"
+    "automatic": {
+        "message": "Automatic"
     },
     "cancel": {
         "message": "Cancel"
@@ -17,8 +14,11 @@
     "description": {
         "message": "Das beste Frame-by-Frame-Tool. Funktioniert mit allen Websites! Bewegen Sie den Mauszeiger über das Video und verwenden Sie die Pfeiltasten der Tastatur, um die Frames zu wechseln."
     },
-    "dragDropActivation": {
-        "message": "\"Drag & Drop\" activation"
+    "disabled": {
+        "message": "Disabled"
+    },
+    "dragDrop": {
+        "message": "Drag & Drop"
     },
     "export": {
         "message": "Export"
@@ -29,25 +29,16 @@
     "language": {
         "message": "Language"
     },
-    "light": {
-        "message": "Light"
+    "leftMouseButton": {
+        "message": "Left mouse button"
     },
     "ok": {
         "message": "Ok"
     },
-    "reset": {
-        "message": "Reset"
+    "scrollWheel": {
+        "message": "Scroll wheel"
     },
-    "save": {
-        "message": "Save"
-    },
-    "somethingWentWrongTryReloadingThePage": {
-        "message": "Something went wrong. Try reloading the page."
-    },
-    "theme": {
-        "message": "Theme"
-    },
-    "touchscreenActivation": {
-        "message": "\"Touchscreen\" activation"
+    "thePageHostnameIsProtectedByBrowser": {
+        "message": "The page HOSTNAME is protected by browser."
     }
 }
